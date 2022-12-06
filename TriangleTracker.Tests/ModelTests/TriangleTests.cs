@@ -46,5 +46,13 @@ namespace Shapes.Tests
 
       Assert.AreEqual("triangle is Isosceles", testTriangle.TriangleCheck());
     }
+
+    [TestMethod]
+    public void TriangleCheck_ChecksIfScalene_StringYes()
+    {
+      Triangle testTriangle = new Triangle(1, 2, 3);
+
+      Assert.AreEqual("triangle is Scalene", testTriangle.TriangleCheck());
+    }
   }
 }
