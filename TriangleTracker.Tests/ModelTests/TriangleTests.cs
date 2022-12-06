@@ -27,7 +27,7 @@ namespace Shapes.Tests
     {
       Triangle testTriangle = new Triangle(5, 2, 2);
 
-      Assert.AreEqual("false", testTriangle.TriangleCheck());
+      Assert.AreEqual("not a triangle", testTriangle.TriangleCheck());
   
     }
   }
