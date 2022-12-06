@@ -23,12 +23,20 @@ namespace Shapes.Tests
     }
 
     [TestMethod]
-    public void IsNotATriangle_Takes3Inputs_false()
+    public void TraingleCheck_CheckIfNotATriangle_String()
     {
       Triangle testTriangle = new Triangle(5, 2, 2);
 
       Assert.AreEqual("not a triangle", testTriangle.TriangleCheck());
   
+    }
+
+    [TestMethod]
+    public void TriangleCheck_ChecksIfEquilateral_StringYes()
+    {
+      Triangle testTriangle = new Triangle(2, 2, 2);
+
+      Assert.AreEqual("triangle is Equilateral", testTriangle.TriangleCheck());
     }
   }
 }
