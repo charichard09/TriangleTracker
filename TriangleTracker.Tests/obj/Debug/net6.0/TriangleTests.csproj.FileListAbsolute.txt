@@ -1,0 +1,10 @@
+C:\Users\Char\Desktop\epicodusProjects\TriangleTracker.Solutions\TriangleTrackerTests\obj\Debug\net6.0\TriangleTests.csproj.AssemblyReference.cache
+C:\Users\Char\Desktop\epicodusProjects\TriangleTracker.Solutions\TriangleTrackerTests\obj\Debug\net6.0\TriangleTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Char\Desktop\epicodusProjects\TriangleTracker.Solutions\TriangleTrackerTests\obj\Debug\net6.0\TriangleTests.AssemblyInfoInputs.cache
+C:\Users\Char\Desktop\epicodusProjects\TriangleTracker.Solutions\TriangleTrackerTests\obj\Debug\net6.0\TriangleTests.AssemblyInfo.cs
+C:\Users\Char\Desktop\epicodusProjects\TriangleTracker.Solutions\TriangleTrackerTests\obj\Debug\net6.0\TriangleTests.csproj.CoreCompileInputs.cache
+C:\Users\Char\Desktop\epicodusProjects\TriangleTracker.Solutions\TriangleTracker.Tests\obj\Debug\net6.0\TriangleTests.csproj.AssemblyReference.cache
+C:\Users\Char\Desktop\epicodusProjects\TriangleTracker.Solutions\TriangleTracker.Tests\obj\Debug\net6.0\TriangleTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Char\Desktop\epicodusProjects\TriangleTracker.Solutions\TriangleTracker.Tests\obj\Debug\net6.0\TriangleTests.AssemblyInfoInputs.cache
+C:\Users\Char\Desktop\epicodusProjects\TriangleTracker.Solutions\TriangleTracker.Tests\obj\Debug\net6.0\TriangleTests.AssemblyInfo.cs
+C:\Users\Char\Desktop\epicodusProjects\TriangleTracker.Solutions\TriangleTracker.Tests\obj\Debug\net6.0\TriangleTests.csproj.CoreCompileInputs.cache
