@@ -38,5 +38,13 @@ namespace Shapes.Tests
 
       Assert.AreEqual("triangle is Equilateral", testTriangle.TriangleCheck());
     }
+
+    [TestMethod]
+    public void TriangleCheck_ChecksIfIsosceles_StringYes()
+    {
+      Triangle testTriangle = new Triangle(2, 2, 3);
+
+      Assert.AreEqual("triangle is Isosceles", testTriangle.TriangleCheck());
+    }
   }
 }
